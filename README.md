@@ -22,8 +22,7 @@ A configurable secure random password generator that runs inside your browser.
 
 
 ## Screenshot
-
-![App Screenshot](https://user-images.githubusercontent.com/96913543/179395937-53f20d64-62ea-440c-b58d-88150e2506ee.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/96913543/183581853-d6c22b82-a731-4d8f-9da6-cf0387101639.png)
 
 
 ## Author
@@ -35,10 +34,12 @@ A configurable secure random password generator that runs inside your browser.
 Javascript, HTML, CSS
 
 
+
 ## Demo
 [see here](https://tusharmarewad.github.io/Password-Generator-using-JS/)
 
 ## Support
 
 For support, email tusharmarewad96@gmail.com or join our Slack channel.
+
 
