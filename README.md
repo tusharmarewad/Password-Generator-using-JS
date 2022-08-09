@@ -23,7 +23,7 @@ A configurable secure random password generator that runs inside your browser.
 
 ## Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://user-images.githubusercontent.com/96913543/179395937-53f20d64-62ea-440c-b58d-88150e2506ee.png)
 
 
 ## Author
