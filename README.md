@@ -5,10 +5,10 @@ A configurable secure random password generator that runs inside your browser.
 
 ## About
 
-- this project built by using html, css and javascript .
-- used css for better design. 
-- there are four checkbox. 
-- there is one button generate password.
+- This project built by using html, css and javascript .
+- Used css for better design. 
+- There are four checkbox. 
+- There is one button generate password.
 - and one copy button.
 
 ## Project Specification 
