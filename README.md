@@ -13,7 +13,7 @@ A configurable secure random password generator that runs inside your browser.
 
 ## Project Specification 
 
-- We have four checkboxses on which we can generate random password. 
+- We have four checkboxes on which we can generate random password. 
 - There is one password length input in which we can fix the length of password in between 6 to 20.
 - We can copy the generated password by using copy button.
 
